@@ -1,6 +1,6 @@
 # SQL and NoSQL Database Projects
 
-This repository contains several database projects demonstrating the use of PostgreSQL for various data analysis tasks. The main focus of the projects is on understanding and manipulating relational database structures as well as using SQL for data storage and retrieval.
+This repository contains several database projects demonstrating the use of PostgreSQL for various data analysis tasks. The main focus of the projects is on understanding and manipulating relational and non-relational database structures as well as using SQL for data storage and retrieval.
 
 ## Project Overview
 
