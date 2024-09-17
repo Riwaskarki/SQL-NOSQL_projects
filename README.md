@@ -4,7 +4,20 @@ This repository contains several database projects demonstrating the use of Post
 
 ## Project Overview
 
-### 1. **Employee Database (ERD)**
+### 1. **Campaign Data Analysis**
+   - This project involves analyzing marketing campaign data using PostgreSQL. The data is explored to derive insights on customer behavior, campaign performance, and more.
+   
+   **Technologies used**:
+   - PostgreSQL
+
+### 2. **Loan Data Analysis**
+   - This project focuses on analyzing loan data using PostgreSQL. Queries are designed to evaluate the performance of different loans, borrower information, and other financial metrics.
+   
+   **Technologies used**:
+   - PostgreSQL
+
+
+### 3. **Employee Database (ERD)**
    - This project involves the creation and analysis of a relational database system for managing employee data, departments, salaries, and titles.
    - The data model includes tables such as employees, departments, titles, salaries, and department managers, with relationships defined via foreign keys.
    
@@ -12,13 +25,13 @@ This repository contains several database projects demonstrating the use of Post
    - PostgreSQL
    - ERD (Entity Relationship Diagram)
    
-### 2. **Data Cleaning and Analysis in SQL**
+### 4. **Data Cleaning and Analysis in SQL**
    - In this project, data is cleaned and analyzed using various PostgreSQL queries. Datasets used include Nashville housing data, loan data, and marketing campaign data.
    
    **Technologies used**:
    - PostgreSQL
 
-### 3. **PostgreSQL Analysis Projects**
+### 5. **PostgreSQL Analysis Projects**
    - These projects focus on using PostgreSQL databases for storing and analyzing data. The data is analyzed using PostgreSQL queries.
 
    **Technologies used**:
