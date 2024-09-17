@@ -32,8 +32,8 @@ This repository contains several database projects demonstrating the use of Post
 - **Nashville_datacleaning.sql**: PostgreSQL script to clean and prepare Nashville housing data.
 - **loans.sql**: PostgreSQL file with loan data queries.
 - **campaign.sql**: PostgreSQL script for analyzing marketing campaign data.
-- **NoSQL_analysis_starter.ipynb**: Jupyter notebook for analyzing data using PostgreSQL.
-- **NoSQL_setup_starter.ipynb**: Setup for PostgreSQL environment.
+- **NoSQL_analysis_starter.ipynb**: Jupyter notebook for analyzing data using MongoDB.
+- **NoSQL_setup_starter.ipynb**: Setup for MongoDB environment.
 - **climate_starter.ipynb**: Climate data analysis using PostgreSQL.
 - **QuickDBD-Free Diagram.png**: ERD diagram for the employee database.
 
